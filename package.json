@@ -1,5 +1,6 @@
 {
   "name": "spatial-demo",
   "version": "0.1.0",
-  "private": true
+  "private": true,
+  "homepage": "https://chenwenchang.github.io/spatial-demo/"
 }
